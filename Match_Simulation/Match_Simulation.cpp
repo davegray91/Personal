@@ -2,7 +2,7 @@
 // Name        : Match_Simulation.cpp
 // Author      : David Grayson
 // Version     : 1.0
-// Description : Simulates the USMLE Match algorithm and provides statistical analysis
+// Description : Simulates the Match algorithm and provides statistical analysis
 //============================================================================
 
 #include <iostream>
